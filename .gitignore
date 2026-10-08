@@ -1,0 +1,8 @@
+# Personal data never belongs in this repo. It lives in the separate private repo.
+private/
+data/
+*.private.*
+compound-lessons-notes-*.md
+compound-lessons-notes-*.html
+.env
+.DS_Store
