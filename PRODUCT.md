@@ -16,7 +16,7 @@ Two secondary audiences exist but don't drive design: people who publish their o
 
 A daily habit: short, specific lessons about the companies on the reader's watchlist (founders, origin stories, products, management, milestones), each rated 1–5. Ratings steer what Claude writes next. Around that core sit the Lens (the watchlist through value-investing questions), a watchlist with a user-set buy rule, highlights and notes, follow-up questions to Claude, and Insights on rating trends.
 
-Success, inferred from the README and not yet confirmed: the reader keeps the habit, understands the watchlist's businesses better over time, and builds a searchable record of what they highlighted and asked.
+Success: the reader keeps the habit, understands the watchlist's businesses better over time, and builds a searchable record of what they highlighted and asked.
 
 ## Positioning
 
